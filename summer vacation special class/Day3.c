@@ -1,5 +1,5 @@
 #include<stdio.h>
-//day1, day2의 경우 컴퓨터에서 삭제됨
+//day1, day2의 경우 컴퓨터에서 삭제됨 (다른 분이 
 main(void)
 {
 	printf("안녕하세요\n오늘은 3번째 날입니다");
@@ -25,6 +25,7 @@ main(void)
 
 	int number_336;
 	int numberName;// 보통 이렇게 2가지로 많이 사용함
+	//작성하고 있음
 
 	return 0;
 }
